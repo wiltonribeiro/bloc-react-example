@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bloc-react/static/css/main.64f86b71.chunk.css",
+    "main.js": "/bloc-react/static/js/main.4d95a83f.chunk.js",
+    "main.js.map": "/bloc-react/static/js/main.4d95a83f.chunk.js.map",
+    "runtime~main.js": "/bloc-react/static/js/runtime~main.042e3477.js",
+    "runtime~main.js.map": "/bloc-react/static/js/runtime~main.042e3477.js.map",
+    "static/js/2.68ad71db.chunk.js": "/bloc-react/static/js/2.68ad71db.chunk.js",
+    "static/js/2.68ad71db.chunk.js.map": "/bloc-react/static/js/2.68ad71db.chunk.js.map",
+    "index.html": "/bloc-react/index.html",
+    "precache-manifest.be306a9d2320930b4ca8b43f33226866.js": "/bloc-react/precache-manifest.be306a9d2320930b4ca8b43f33226866.js",
+    "service-worker.js": "/bloc-react/service-worker.js",
+    "static/css/main.64f86b71.chunk.css.map": "/bloc-react/static/css/main.64f86b71.chunk.css.map",
+    "static/media/logo.svg": "/bloc-react/static/media/logo.5d5d9eef.svg"
+  }
+}
