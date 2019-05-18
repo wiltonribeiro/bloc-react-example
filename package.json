@@ -2,7 +2,7 @@
   "name": "bloc-react-example",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://wiltonribeiro.github.io/bloc-react-example",
+  "homepage": "https://wiltonribeiro.github.io/bloc-react",
   "dependencies": {
     "bloc-builder-react": "^1.0.1",
     "gh-pages": "^2.0.1",
